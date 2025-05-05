@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub !
 
-🎓 Je suis étudiant en développement informatique, passionné par le **développement web** et le **développement de jeux vidéo**.  
+🎓 Je suis étudiant en développement informatique, passionné par le **développement web**.  
 💼 Actuellement à la recherche d'opportunités pour développer mes compétences en entreprise.  
 🎮 J'aime créer des applications interactives, des sites web modernes.
 
